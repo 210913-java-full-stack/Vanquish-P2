@@ -1,4 +1,7 @@
-# Vanquish-P2
+# Link to frontend:
+https://github.com/210913-java-full-stack/VanquishFrontEndP2
+
+# Vanquish-P2 Backend
 Team Vanquish Project 2 Implementation
 
 ### Minimum Requirements
